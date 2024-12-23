@@ -665,11 +665,12 @@ Start the assembly with the YZ plate.
 ![!LR4 Beam assm](../img/lr4/B3.jpg){: loading=lazy width="600"}
 
  * Install the (temp)strut plates.
+ * TODO: which screws??
  * Do not crush the front rail clamps.
  * As you tighten the screws you will feel the clamps start to engage, that is all you need.
  * Tubes will still be able to rotate, if you try hard enough you can pull them out.
  * Trust, just a tiny bit of tension is all you need. 
- * The rails carry no sideways loads, do not overtioghten them, it only causes issues.
+ * The rails carry no sideways loads, do not overtighten them, it only causes issues.
 
 ![!LR4 Beam assm](../img/lr4/B4.jpg){: loading=lazy width="600"}
 
