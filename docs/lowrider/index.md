@@ -661,6 +661,9 @@ Start the assembly with the YZ plate.
  * If you use the temp struts space the end 4 braces to fit.
  * If you already have your strut plate cut, now is your time to shine.
  * If you just finished cutting your own strut plate, you have already done this, you don't need my help.
+ * 
+
+ TOOD: where does max go??
 
 ![!LR4 Beam assm](../img/lr4/B3.jpg){: loading=lazy width="600"}
 
